@@ -1,0 +1,16 @@
+services:
+  galaxis-webapi:
+    build:
+      context: /Users/sandor/Projects/Galaxis-WebAPI
+      dockerfile: Galaxis-WebAPI/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: galaxiswebapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - /Users/sandor/.aspnet/https:/root/.aspnet/https:ro
+    - /Users/sandor/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

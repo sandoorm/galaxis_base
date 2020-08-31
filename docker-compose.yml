@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  galaxis-webapi:
+    image: ${DOCKER_REGISTRY-}galaxiswebapi
+    build:
+      context: .
+      dockerfile: Galaxis-WebAPI/Dockerfile

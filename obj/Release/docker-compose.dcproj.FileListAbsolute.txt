@@ -1,0 +1,8 @@
+/Users/sandor/Projects/Galaxis-WebAPI/bin/Release/appsettings.Development.json
+/Users/sandor/Projects/Galaxis-WebAPI/bin/Release/appsettings.json
+/Users/sandor/Projects/Galaxis-WebAPI/bin/Release/Properties/launchSettings.json
+/Users/sandor/Projects/Galaxis-WebAPI/bin/Release/Galaxis-WebAPI.dll
+/Users/sandor/Projects/Galaxis-WebAPI/bin/Release/Galaxis-WebAPI.pdb
+/Users/sandor/Projects/Galaxis-WebAPI/obj/Release/docker-compose.dcprojAssemblyReference.cache
+/Users/sandor/Projects/Galaxis-WebAPI/obj/Release/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/sandor/Projects/Galaxis-WebAPI/obj/Release/docker-compose.dcproj.CopyComplete

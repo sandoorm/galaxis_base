@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Galaxis-WebAPI.iml
+# Editor-based HTTP Client requests
+/httpRequests/
+/bin/Debug
+/bin/Release
+/Galaxis-WebAPI/bin
+/Galaxis-WebAPI/obj
